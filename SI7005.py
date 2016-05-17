@@ -50,4 +50,4 @@ while (data[0] & 0x01) != 0 :
 print "Relative Humidity : %.2f %%" %humidity	
 print "Temperature in Celsius : %.2f C" %ctemp
 print "Temperature in Fahrenheit : %.2f F" %ftemp
-	time.sleep(3)
+time.sleep(3)
